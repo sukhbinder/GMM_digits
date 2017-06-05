@@ -3,4 +3,9 @@
 
 Train a Gaussian Mixture Model on Digits Images and then generate images from the trained model.
 
-![images](img/original.png)
+## original
+![original](img/original.png)
+
+
+## Generated Sample from the GMM Model
+![Generated Sample](img/generated_samples.png)
