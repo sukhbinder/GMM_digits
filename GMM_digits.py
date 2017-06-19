@@ -29,7 +29,7 @@ print(gmm.converged_)
 
 # Generate new data from the model
 data_new = gmm.sample(100, random_state=0)
-data_new.shape
+print data_new.shape
 digits_new = pca.inverse_transform(data_new)
 
 # Lets display
